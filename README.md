@@ -20,6 +20,7 @@ Access your account on okeyproxy.com.
 Navigate to the dashboard and purchase a proxy according to your needs.
 
 Get Your Proxy Information:
+
 ![image](https://github.com/OkeyProxyCom/Integrate-AdsPower-with-OkeyProxy/assets/150340973/22c74e9e-2efc-4a92-9957-319e90dee2fa)
 
 Go to "Residential Proxies" -> "User Name Password" -> "Endpoint Generator" to obtain your proxy details.
@@ -27,6 +28,7 @@ Select your preferred location and session type.
 Choose the number of proxies you wish to create, then click "Generate".
 
 Set Up AdsPower:
+
 ![image](https://github.com/OkeyProxyCom/Integrate-AdsPower-with-OkeyProxy/assets/150340973/897593ee-1f85-40a6-a483-35319ef80e00)
 
 Download, install, and launch AdsPower.
